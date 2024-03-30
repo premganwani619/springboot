@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: dev
+#But this is not the way how we deploy our app to production
+#we will be creating jar files and then deploying it
+---
+welcome:
+  message: Hello and welcome to my website ladies and gentlemen!!!
+
+---
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'

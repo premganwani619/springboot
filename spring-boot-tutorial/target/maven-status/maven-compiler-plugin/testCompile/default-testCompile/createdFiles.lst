@@ -1,0 +1,4 @@
+com\dailycodebuffer\springboot\tutorial\service\DepartmentServiceTest.class
+com\dailycodebuffer\springboot\tutorial\repository\DepartmentRepositoryTest.class
+com\dailycodebuffer\springboot\tutorial\controller\DepartmentControllerTest.class
+com\dailycodebuffer\springboot\tutorial\SpringBootTutorialApplicationTests.class
